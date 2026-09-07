@@ -1,1 +1,1 @@
-# Data-AI-Career-Training-
+# Be_Practical_AI_Career_Training
