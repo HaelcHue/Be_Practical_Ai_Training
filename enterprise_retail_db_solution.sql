@@ -5,18 +5,8 @@ STUDENT GRADED PORTFOLIO LAB
 DATABASE: enterprise_retail_db
 ===============================================================================
 
-IMPORTANT:
-- This script assumes that enterprise_retail_db already exists.
-- It also assumes the tables/data from the earlier database script exist.
-- MySQL 8.0+ is recommended because this script uses:
-    CTEs
-    RECURSIVE CTEs
-    Window Functions
-    LAG()
-    LEAD()
-    NTILE()
+
 ===============================================================================
-*/
 
 USE enterprise_retail_db;
 
